@@ -1,5 +1,6 @@
 # 패스트캠퍼스 **🚀 실전 AI Agent의 모든 것 : 34개 프로젝트로 MCP부터 GraphRAG Agent까지 (by.공원나연)** 
 
+Python version: 3.11.13
 
 ```
 📦fastcampus-aiagent
